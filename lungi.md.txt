@@ -1,0 +1,5 @@
+# Lungi
+
+- Role: fullstack
+- Favourite AI tool: claude
+- Daily goal: One thing you want to learn about Git 
