@@ -74,8 +74,8 @@ Find these items in this repository:
 # Your name
 
 - Role: Your role
-- Favourite development tool: Your tool
-- Learning goal: One thing you want to learn about Git or GitHub
+- Favourite AI tool: Your tool
+- Daily goal: One thing you want to learn about Git or GitHub
 ```
 
 **Complete when:** Your introduction exists on your branch and your pull request is open.
